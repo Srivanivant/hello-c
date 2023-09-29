@@ -4,3 +4,4 @@ name:v sreevani
 project:version control test
 college:anmk
 course:mca
+afflicated:jntu
